@@ -1,4 +1,5 @@
-# di1ren.github.io
-![Alipay](alipay.png "Alipay")
 
-![WeChatPay](wechatpay.png "WeChatpay")
+<figure class="half">
+    <img src="wechatpay.png">
+    <img src="alipay.png">
+</figure>
