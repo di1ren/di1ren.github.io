@@ -1,4 +1,4 @@
 # di1ren.github.io
-![Alipay 图片](alipay.png "Alipay")
+![Alipay](alipay.png "Alipay")
 
-![WeChatPay 图片](Wechatpay.png "WeChatpay")
+![WeChatPay](wechatpay.png "WeChatpay")
